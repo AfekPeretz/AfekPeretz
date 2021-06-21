@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-[![Linkedin](https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png) LinkedIn](https://www.linkedin.com/in/afekperetz)
-&nbsp;
+  <a href="https://www.linkedin.com/in/afekperetz">
+    <img src="https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
