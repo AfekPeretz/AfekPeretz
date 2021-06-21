@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+www.linkedin.com/in/afekperetz
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
