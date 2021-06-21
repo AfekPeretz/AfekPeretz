@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <a href="https://www.linkedin.com/in/afekperetz">
-    <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfekPeretz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afekperetz)
+
+**Glad to see you here!** ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
