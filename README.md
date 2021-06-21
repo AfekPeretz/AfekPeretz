@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <a href="www.linkedin.com/in/afekperetz" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-
+ 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](hwww.linkedin.com/in/afekperetz)
+&nbsp;
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
