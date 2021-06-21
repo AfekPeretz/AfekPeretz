@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <a href="https://www.linkedin.com/in/afekperetz">
-    <img src="https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png" alt="linkedin"> LinkedIn
+    <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
