@@ -2,6 +2,15 @@
 
 <!--
 **AfekPeretz/AfekPeretz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afekperetz)
+
+**Glad to see you here!**   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
+
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
@@ -21,6 +30,4 @@ Here are some ideas to get you started:
 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afekperetz)
 
-**Glad to see you here!** ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
